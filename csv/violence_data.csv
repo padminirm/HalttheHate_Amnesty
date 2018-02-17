@@ -1,0 +1,10 @@
+yy,mm,dd,place,latitude,longitude,victim_names,victim_ages,male_no,female_no,complaint,fir,counter_fir,charges_filed,court_hearing,conviction,compensation,party_in_power,identity_dalit,identity_muslim,hatetype_cow,hatetype_caste,hatetype_religion,hatetype_gender,hatetype_honor,hatetype_love,hatetype_others,nature_harassment,nature_assault,nature_murder,nature_rape,nature_sexual,nature_property_damage,links_multimedia,summary,links_publication
+2015,9,28,Dadri,28.6,76.2667,,,,,,,,,,,,,yes,no,yes,no,yes,,,,,,,,,,,,Dadri 28.09.2015,
+2015,11,30,Thanesar,29.9833,76.8167,,,,,,,,,,,,,no,no,no,yes,yes,,,,,,,,,,,,Thanesar 30.11.2015,
+2016,2,10,Karimnagar,18.4333,79.15,,,,,,,,,,,,,no,no,yes,no,yes,,,,,,,,,,,,Karimnagar 10.02.2016,
+2017,6,13,Barmer,25.75,71.3833,,,,,,,,,,,,,no,yes,no,yes,yes,,,,,,,,,,,,Barmer 13.06.2017,
+2017,6,30,Parasia,22.2,78.7667,,,,,,,,,,,,,yes,yes,yes,no,no,,,,,,,,,,,,Parasia 30.06.2017,
+2017,8,27,Jalpaiguri,26.5167,88.7333,,,,,,,,,,,,,yes,yes,no,yes,no,,,,,,,,,,,,Jalpaiguri 27.08.2017,
+2017,10,6,Delhi,28.6667,77.2167,,,,,,,,,,,,,yes,yes,yes,no,no,,,,,,,,,,,,Delhi 06.10.2017,
+2017,8,20,Kochi,9.9667,76.2333,,,,,,,,,,,,,no,yes,no,yes,no,,,,,,,,,,,,Kochi 20.08.2017,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

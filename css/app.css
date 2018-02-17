@@ -1,0 +1,109 @@
+@font-face {
+    font-family: 'Roboto Condensed', sans-serif;
+    }
+
+@font-face {
+    font-family: 'Roboto Condensed', sans-serif;
+    }
+
+@font-face {
+    font-family: 'Roboto Condensed', sans-serif;
+    }
+
+body{
+    background-color: #fff;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.violence {
+    margin-left: 16%;
+}
+.sticky-top {
+    
+position: fixed;
+        top: 0px;
+        right: 10px;
+}
+.fields .input-group {
+    display: ruby;
+}
+.my-menu .item {
+    display: inline-block;
+    padding: 11px;
+    
+}    
+.my-menu h1 {
+    
+}
+h1{
+    color: black;
+    font-size: 36px;
+    font-weight: bold;
+    margin-left: 18px;
+    margin-bottom: -4px;
+}
+
+div, label{
+    font-family: "AmnestyLight";
+    color: rgb(196, 196, 106);
+    font-size: 0.9rem;
+}
+
+label{
+    font-size: 1em;
+}
+
+p{
+    background-color: white;
+    color: black;
+}
+.header{
+    margin-top: 20px;
+    margin-left: 18px
+}
+.menu{
+    margin-left: 3px;
+    background-color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 13px;
+}
+.menu a{
+    color: black;
+    padding: 0.4rem 0.4rem;
+}
+.menu a:hover,
+.menu a:active,
+.menu a:focus{
+    color: yellow;
+}
+h2{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+    font-weight: bold;    
+    color: #000;
+    border-bottom: 4px solid #000;
+    padding-top: 32px;
+}
+label{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+    font-weight: bold;    
+    color: #000;
+}
+.summary{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+    font-weight: bold;    
+    color: black;
+    margin-top: 10px;
+    background-color: white;
+}
+.fields{
+    padding-left: 18px;
+}
+.desc{
+    margin-top: 111px;
+    padding-left: 60px;
+}
